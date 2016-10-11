@@ -1,0 +1,6 @@
+{
+  "name": "Flight-reservation",
+  "tagline": "Simple Java program based on Swing GUI perform basic operation",
+  "body": "This project was made with a very clear and practical goal tending to ease the work of\r\nthe flight reservation authorities at the airports. The project was a java based visual application which was capable\r\nof booking a seat for a passenger who wishes and even cancel it at later times if needed. The practical\r\nimplementations of the project has yet a lot of live potentials in it. Additional features such as creating a displaying\r\nof all the passenger who have made a reservation and few more manipulating tasks were also made available\r\nthrough it.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
